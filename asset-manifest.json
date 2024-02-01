@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d05436eb.css",
+    "main.js": "/static/js/main.3940e44d.js",
+    "static/js/787.3526d8d9.chunk.js": "/static/js/787.3526d8d9.chunk.js",
+    "static/media/fernet.png": "/static/media/fernet.25ab173e8a47b0a7f060.png",
+    "static/media/wildBg2.jpg": "/static/media/wildBg2.14d530f91e2418cc6360.jpg",
+    "static/media/hierbasBg.jpg": "/static/media/hierbasBg.88a0b3f527a88d653977.jpg",
+    "static/media/vasosFernet.jpg": "/static/media/vasosFernet.a21b62c5b3aa37daf309.jpg",
+    "static/media/homeBg.jpg": "/static/media/homeBg.84bcbdb6b6f711e43842.jpg",
+    "static/media/pardalisRed.png": "/static/media/pardalisRed.ea5a406d87a564827f74.png",
+    "static/media/contactoBg.jpg": "/static/media/contactoBg.a6dec9637560a8c1683e.jpg",
+    "static/media/wildBgMobile.jpg": "/static/media/wildBgMobile.af95c99121217ff92b05.jpg",
+    "static/media/bgVentas.jpg": "/static/media/bgVentas.ceab5153500d8a48d81a.jpg",
+    "static/media/hierbasMobile.jpg": "/static/media/hierbasMobile.5e2fbd663c4260d3e84d.jpg",
+    "static/media/wildBg1.jpg": "/static/media/wildBg1.314b3957128b30c760ff.jpg",
+    "static/media/homeMobile.jpg": "/static/media/homeMobile.a36880200c391ed991f6.jpg",
+    "static/media/fermelo.jpg": "/static/media/fermelo.21c9eacaf7bb402d492f.jpg",
+    "static/media/pintadaGris.png": "/static/media/pintadaGris.250ea4f87c52ce95e8b2.png",
+    "static/media/bahnschrift.ttf": "/static/media/bahnschrift.4061d71c8bcd727b0b37.ttf",
+    "static/media/logo.png": "/static/media/logo.91b5b486dd3eabb6308f.png",
+    "static/media/hierbasPardalisLogo.png": "/static/media/hierbasPardalisLogo.14f97622fa6171f99356.png",
+    "static/media/pintadaRoja.png": "/static/media/pintadaRoja.582a85a968cb9826a520.png",
+    "static/media/Cristone.ttf": "/static/media/Cristone.2dacb6883cd488957aea.ttf",
+    "static/media/Blatant.otf": "/static/media/Blatant.f7d3c7cc18118aa7ad0c.otf",
+    "index.html": "/index.html",
+    "main.d05436eb.css.map": "/static/css/main.d05436eb.css.map",
+    "main.3940e44d.js.map": "/static/js/main.3940e44d.js.map",
+    "787.3526d8d9.chunk.js.map": "/static/js/787.3526d8d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d05436eb.css",
+    "static/js/main.3940e44d.js"
+  ]
+}
