@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.31c0b0d6.css",
-    "main.js": "/static/js/main.5a6b5137.js",
+    "main.css": "/static/css/main.7a574b5a.css",
+    "main.js": "/static/js/main.c020d8d4.js",
     "static/js/787.3526d8d9.chunk.js": "/static/js/787.3526d8d9.chunk.js",
     "static/media/wildBg2.jpg": "/static/media/wildBg2.14d530f91e2418cc6360.jpg",
     "static/media/hierbasBg.jpg": "/static/media/hierbasBg.88a0b3f527a88d653977.jpg",
@@ -20,16 +20,18 @@
     "static/media/Cristone.ttf": "/static/media/Cristone.2dacb6883cd488957aea.ttf",
     "static/media/Blatant.otf": "/static/media/Blatant.f7d3c7cc18118aa7ad0c.otf",
     "static/media/pintadaGris.png": "/static/media/pintadaGris.35400db4e36705275da0.png",
+    "static/media/mapa.webp": "/static/media/mapa.37eabba9290885f45a05.webp",
     "static/media/hierbasPardalisLogo.png": "/static/media/hierbasPardalisLogo.f3897094c6c71c51d549.png",
     "static/media/pintadaRoja.png": "/static/media/pintadaRoja.90a44dad52da1999a3e2.png",
     "static/media/logoMobile.webp": "/static/media/logoMobile.38faff15e71862316a2c.webp",
+    "static/media/logoMobile2.webp": "/static/media/logoMobile2.a0baddfaa6985a228ada.webp",
     "index.html": "/index.html",
-    "main.31c0b0d6.css.map": "/static/css/main.31c0b0d6.css.map",
-    "main.5a6b5137.js.map": "/static/js/main.5a6b5137.js.map",
+    "main.7a574b5a.css.map": "/static/css/main.7a574b5a.css.map",
+    "main.c020d8d4.js.map": "/static/js/main.c020d8d4.js.map",
     "787.3526d8d9.chunk.js.map": "/static/js/787.3526d8d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31c0b0d6.css",
-    "static/js/main.5a6b5137.js"
+    "static/css/main.7a574b5a.css",
+    "static/js/main.c020d8d4.js"
   ]
 }
